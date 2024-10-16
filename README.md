@@ -17,3 +17,14 @@
   Topics: Inventory Invoice & Printing (Database, Back-End, Front-End) | Inven tory Invoice & Printing (Database, Back-End, Front-End) | Application Testing & Live Server Deploy
 
 
+
+  SMTP: MAIL_MAILER=smtp
+MAIL_HOST=smtp.titan.email
+MAIL_PORT=465
+MAIL_USERNAME=support@laravelpoint.com
+MAIL_PASSWORD=Rup77_4827
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS="support@laravelpoint.com"
+MAIL_FROM_NAME="Laravel Point"
+
+
